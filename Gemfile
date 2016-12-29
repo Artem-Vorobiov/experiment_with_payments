@@ -23,6 +23,9 @@ gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 
 gem 'letter_opener', group: :development
 
+gem 'activeadmin', github: 'activeadmin'
+gem 'inherited_resources', github: 'activeadmin/inherited_resources' 
+gem 'devise'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
