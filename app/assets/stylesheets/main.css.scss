@@ -4,6 +4,11 @@ img {
     max-width: 100%;
 }
 
+.frame {
+    text-align: center;
+    margin: 0 auto;
+}
+
 ul.no-indent {
     list-style-position: inside;
     padding-left: 0px;
@@ -64,11 +69,11 @@ body {
 }
 
 #modal-left {
-    width: 55%;
+    width: 65%;
 }
 
 #modal-right {
-    width: 35%;
+    width: 25%;
 }
 
 /* HOME PAGE STYLES */
